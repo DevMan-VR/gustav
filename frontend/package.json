@@ -28,7 +28,7 @@
     "font-awesome": "^4.7.0",
     "image-downloader": "^4.0.1",
     "natives": "^1.1.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "plotly.js": "^1.54.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
